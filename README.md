@@ -1,5 +1,2 @@
 # cs_portfolio
-CS projects I have worked on
-
-
-test
+These are some java projects I have worked on.
